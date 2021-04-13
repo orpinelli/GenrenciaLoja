@@ -1,5 +1,5 @@
 # GenrenciaLoja
-Sistema Web afins de aprimorar as minhas habilidades no desenvolvimento de PHP..
+Sistema para Gestão de uma loja online 
 -------------------------------------------------------------------------------------
 O sistema vai gerir todas as necessidades de uma loja online. Controle de estoque, venda, NF, integrações.
 
